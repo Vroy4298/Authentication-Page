@@ -1,7 +1,8 @@
-// Load Particles.js Configuration
-particlesJS.load('particles-js', 'particles-config.json', function() {
-    console.log('Particles.js loaded successfully.');
+particlesJS.load('particles-container', 'auth/particles-config.json', function() {
+    console.log("✅ Particles.js loaded successfully!");
 });
+
+
 
 // Toggle Login and Signup Forms
 document.getElementById("showSignup").addEventListener("click", function () {
