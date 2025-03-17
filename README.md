@@ -9,4 +9,4 @@ A sleek and responsive authentication system featuring Login & Signup on a singl
 ⚡ Interactive UI with smooth transitions using JavaScript  
 🔐 User-friendly form validation for a better experience  
 💡 Easy to integrate into any web project  
-(Updated README with project description)
+
